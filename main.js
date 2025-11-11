@@ -1,4 +1,5 @@
-function CekNilai() {
+
+)KO.function CekNilai() {
   // Mengambil value dari elemen input nilai
   // Simpan ke dalam vartabel bernama "Nilai"
   let Nilai = Number(document.getElementById("Nilai").value)
